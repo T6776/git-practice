@@ -228,3 +228,216 @@ footer {
 .footer-text {
   color: #fff;
 }
+
+
+@media screen and (max-width:1024px) {
+  header {
+    width: 100%;
+  }
+  
+  .nav-list {
+    width: 100%;
+  }
+  
+  .nav-list-item{
+    width: 100%;
+    margin: 0 0 5px 0;
+  }
+
+  .social {
+    display: none;
+  }
+
+  .main-visual-content {
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .blog {
+    width: 100%;
+    margin: 0;
+  }
+
+  .blog-box {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .blog-image {
+    width: 50%;
+  }
+
+  .category {
+    display: none;
+  }
+
+  .pagination{
+    width: 100%;
+    padding: 0;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-top: 50PX;
+  }
+
+  .sidebar-contents {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .instagram-box {
+    width: 48%;
+    padding-top: 48%;
+  }
+
+  .instagram-box:nth-child(odd) {
+    margin-right: 4%;
+  }
+}
+
+@media screen and (max-width:768px) {
+  header {
+    width: 100%;
+  }
+  
+  .nav-list {
+    width: 100%;
+  }
+  
+  .nav-list-item{
+    width: 100%;
+    margin: 0 0 5px 0;
+  }
+
+  .social {
+    display: none;
+  }
+
+  .main-visual-content {
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .blog {
+    width: 100%;
+    margin: 0;
+  }
+
+  .blog-box {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .blog-image {
+    width: 50%;
+  }
+
+  .category {
+    display: none;
+  }
+
+  .pagination{
+    width: 100%;
+    padding: 0;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-top: 50PX;
+  }
+
+  .sidebar-contents {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .instagram-box {
+    width: 48%;
+    padding-top: 48%;
+  }
+
+  .instagram-box:nth-child(odd) {
+    margin-right: 4%;
+  }
+}
+  
+@media screen and (max-width:425px) {
+  header {
+    width: 100%;
+  }
+  
+  .nav-list {
+    width: 100%;
+  }
+  
+  .nav-list-item{
+    width: 100%;
+    margin: 0 0 5px 0;
+  }
+
+  .social {
+    display: none;
+  }
+
+  .main-visual-content {
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    display: block;
+  }
+
+  .blog {
+    width: 100%;
+    margin: 0;
+  }
+
+  .blog-box {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .blog-image {
+    width: 50%;
+  }
+
+  .category {
+    display: none;
+  }
+
+  .pagination{
+    width: 100%;
+    padding: 0;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-top: 50PX;
+  }
+
+  .sidebar-contents {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .instagram-box {
+    width: 48%;
+    padding-top: 48%;
+  }
+
+  .instagram-box:nth-child(odd) {
+    margin-right: 4%;
+  }
+}
+
+}
